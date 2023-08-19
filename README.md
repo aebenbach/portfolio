@@ -1,6 +1,8 @@
 # Machine Learning and Data Science Portfolio
 ### Andrew Ebenbach
 
+This repository contains the code and Jupyter notebooks I used for various data science-related projects. Below is a brief description of each project.
+
 ## Face Covering Detection with Ring Devices (2023)
 
 Summary: I started a personal project to build a system that could detect face coverings in home security videos recorded by Ring devices.
@@ -13,6 +15,8 @@ Skills Used:
 Working with complex, real-life data
 Building models to solve practical problems
 Setting up and deploying models on cloud services like AWS
+
+NOTE: the code for this project is not in the repository, but you can see a video demonstration of the project here https://www.youtube.com/watch?v=Angf-GPvpG8
 
 
 ## Netflix Ratings Predictions (2023)
