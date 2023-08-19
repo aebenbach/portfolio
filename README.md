@@ -11,10 +11,10 @@ Data Collection & Preparation: I gathered videos from Ring Neighbors and other o
 
 Building and Setting Up the System: After training, I set up my models on cloud services like AWS. This allowed me to create a system that can quickly tell users when it sees a face covering in their video footage.
 
-Skills Used: 
-Working with complex, real-life data
-Building models to solve practical problems
-Setting up and deploying models on cloud services like AWS
+Skills Used:   
+Working with complex, real-life data   
+Building models to solve practical problems   
+Setting up and deploying models on cloud services like AWS   
 
 NOTE: the code for this project is not in the repository, but you can see a video demonstration of the project here https://www.youtube.com/watch?v=Angf-GPvpG8
 
@@ -25,9 +25,9 @@ Summary: I worked on a project inspired by the famous Netflix ratings prediction
 
 Approach & Implementation: As part of my modeling pipeline I incorporated feature engineering, clustering, and data visualization.
 
-Skills Demonstrated: 
-Understanding and following best practices in machine learning
-Analyzing and understanding large amounts of data and machine learning results
+Skills Demonstrated:   
+Understanding and following best practices in machine learning   
+Analyzing and understanding large amounts of data and machine learning results   
 
 
 ## RSNA Breast Cancer Detection Challenge (2023)
@@ -36,10 +36,10 @@ Summary: The project is based on a Kaggle competition that aims to predict breas
 
 Approach & Implementation: We used the best practices in model development and applied deep learning techniques, like convolutional neural networks, hyperparameter tuning, transfer learning, and object detection models. We also focused on making our model explainable and understandable.
 
-Skills Demonstrated: 
-Knowledge of best practices in developing machine learning models
-Use of advanced deep learning techniques
-Ability to work with complex data, such as mammogram images
+Skills Demonstrated:   
+Knowledge of best practices in developing machine learning models  
+Use of advanced deep learning techniques   
+Ability to work with complex data, such as mammogram images   
 
 
 ## Big Data Derby (2022)
@@ -48,8 +48,8 @@ Summary: I took part in an open-ended competition sponsored by the New York Raci
 
 Approach & Implementation: In my approach, I built a model that could predict a horse's chances of winning the race as it progresses. The model used live race data to continually update the winning probabilities.
 
-Skills Demonstrated:
-Creative ways to use the available data 
-Presenting data in an understandable way 
-Making sense of the model's results 
-Building a model that works with chances and probabilities
+Skills Demonstrated:  
+Creative ways to use the available data   
+Presenting data in an understandable way   
+Making sense of the model's results   
+Building a model that works with chances and probabilities  
